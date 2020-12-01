@@ -20,6 +20,7 @@
 - https://github.com/alsersan/advent-of-code-2020 (JavaScript)
 - https://github.com/totegsito/advent-of-code-2020 (JavaScript)
 - https://github.com/danysainero/adventOfCode2020 (JavaScript)
+- https://github.com/migueabellan/advent-of-code-2020 (PHP)
 
 ## Misc
 
