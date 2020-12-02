@@ -23,6 +23,7 @@
 - https://github.com/migueabellan/advent-of-code-2020 (PHP)
 - https://github.com/markski1/advent-2020 (C)
 - https://github.com/Dawntraoz/advent-of-code-2020 (JavaScript Vue)
+- https://github.com/nelodev/aoc-2020 (JavaScript)
 
 ## Misc
 
