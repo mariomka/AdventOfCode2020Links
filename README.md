@@ -21,7 +21,7 @@
 - https://github.com/totegsito/advent-of-code-2020 (JavaScript)
 - https://github.com/danysainero/adventOfCode2020 (JavaScript)
 - https://github.com/migueabellan/advent-of-code-2020 (PHP)
-
+- https://github.com/markski1/advent-2020 (C)
 ## Misc
 
 - Make AoC more readable: https://gist.github.com/belen-albeza/9487d12c65e086b7c6f139c6f5d95735
