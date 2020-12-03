@@ -25,6 +25,7 @@
 - https://github.com/Dawntraoz/advent-of-code-2020 (JavaScript Vue)
 - https://github.com/nelodev/aoc-2020 (JavaScript)
 - https://github.com/jobedom/aoc-2020 (Python)
+- https://github.com/juananmuxed/adventofcode-2020 (JavaScript)
 
 ## Misc
 
