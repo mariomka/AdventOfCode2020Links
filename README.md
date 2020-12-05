@@ -27,6 +27,7 @@
 - https://github.com/jobedom/aoc-2020 (Python)
 - https://github.com/juananmuxed/adventofcode-2020 (JavaScript)
 - https://github.com/sentach/AdventOfCode (C#)
+- https://github.com/guillermoig/AoC2020 (PHP)
 
 ## Misc
 
