@@ -30,6 +30,7 @@
 - https://github.com/guillermoig/AoC2020 (PHP)
 - https://github.com/baumannzone/advent-of-code (JavaScript)
 - https://github.com/SantiMA10/AdventOfCode-2020 (TypeScript)
+- https://github.com/joaquinmarti/advent-2020 (JavaScript)
 
 ## Misc
 
