@@ -31,6 +31,7 @@
 - https://github.com/baumannzone/advent-of-code (JavaScript)
 - https://github.com/SantiMA10/AdventOfCode-2020 (TypeScript)
 - https://github.com/joaquinmarti/advent-2020 (JavaScript)
+- https://github.com/yeta1990/adviento (JavaScript)
 
 ## Misc
 
