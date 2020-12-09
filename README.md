@@ -7,6 +7,15 @@
 
 ## **Repos**
 
+### C
+
+- [markski1/advent-2020](https://github.com/markski1/advent-2020)
+
+### C\#
+
+- [eduherminio/AoC2020](https://github.com/eduherminio/AoC2020)
+- [sentach/AdventOfCode](https://github.com/sentach/AdventOfCode)
+
 ### JavaScript
 
 - [AlenaNik/aoc2020](https://github.com/AlenaNik/aoc2020)
@@ -25,9 +34,10 @@
 - [totegsito/advent-of-code-2020](https://github.com/totegsito/advent-of-code-2020)
 - [yeta1990/adviento](https://github.com/yeta1990/adviento)
 
-### TypeScript
+### PHP
 
-- [SantiMA10/AdventOfCode-2020](https://github.com/SantiMA10/AdventOfCode-2020)
+- [guillermoig/AoC2020](https://github.com/guillermoig/AoC2020)
+- [migueabellan/advent-of-code-2020](https://github.com/migueabellan/advent-of-code-2020)
 
 ### Python
 
@@ -35,24 +45,14 @@
 - [jobedom/aoc-2020](https://github.com/jobedom/aoc-2020)
 - [JoseTomasTocino/AdventOfCode2020](https://github.com/JoseTomasTocino/AdventOfCode2020)
 
-### PHP
-
-- [guillermoig/AoC2020](https://github.com/guillermoig/AoC2020)
-- [migueabellan/advent-of-code-2020](https://github.com/migueabellan/advent-of-code-2020)
-
 ### Rust
 
 - [belen-albeza/aoc-2020](https://github.com/belen-albeza/aoc-2020)
 - [mariomka/AdventOfCode2020](https://github.com/mariomka/AdventOfCode2020)
 
-### C\#
+### TypeScript
 
-- [eduherminio/AoC2020](https://github.com/eduherminio/AoC2020)
-- [sentach/AdventOfCode](https://github.com/sentach/AdventOfCode)
-
-### C
-
-- [markski1/advent-2020](https://github.com/markski1/advent-2020)
+- [SantiMA10/AdventOfCode-2020](https://github.com/SantiMA10/AdventOfCode-2020)
 
 ## Misc
 
