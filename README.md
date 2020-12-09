@@ -54,6 +54,9 @@
 
 - [SantiMA10/AdventOfCode-2020](https://github.com/SantiMA10/AdventOfCode-2020)
 
+### Kotlin
+- [erikiva/advent-of-code/2020](https://github.com/erikiva/advent-of-code/tree/master/2020)
+
 ## Misc
 
 - [Make AoC more readable](https://gist.github.com/belen-albeza/9487d12c65e086b7c6f139c6f5d95735)
