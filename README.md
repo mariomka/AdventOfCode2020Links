@@ -34,6 +34,9 @@
 - [totegsito/advent-of-code-2020](https://github.com/totegsito/advent-of-code-2020)
 - [yeta1990/adviento](https://github.com/yeta1990/adviento)
 
+### Kotlin
+- [erikiva/advent-of-code/2020](https://github.com/erikiva/advent-of-code/tree/master/2020)
+
 ### PHP
 
 - [guillermoig/AoC2020](https://github.com/guillermoig/AoC2020)
@@ -53,9 +56,6 @@
 ### TypeScript
 
 - [SantiMA10/AdventOfCode-2020](https://github.com/SantiMA10/AdventOfCode-2020)
-
-### Kotlin
-- [erikiva/advent-of-code/2020](https://github.com/erikiva/advent-of-code/tree/master/2020)
 
 ## Misc
 
