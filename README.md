@@ -55,7 +55,7 @@
 - [SantiMA10/AdventOfCode-2020](https://github.com/SantiMA10/AdventOfCode-2020)
 
 ### Kotlin
-- [erikiva/aoc/2020](https://github.com/erikiva/advent-of-code/tree/master/2020)
+- [erikiva/advent-of-code/2020](https://github.com/erikiva/advent-of-code/tree/master/2020)
 
 ## Misc
 
