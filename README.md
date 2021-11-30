@@ -4,6 +4,10 @@
 
 ## **Repos**
 
+### C\#
+
+- [eduherminio/AoC2021](https://github.com/eduherminio/AoC2021)
+
 ## Misc
 
 - [Make AoC more readable](https://gist.github.com/belen-albeza/9487d12c65e086b7c6f139c6f5d95735)
