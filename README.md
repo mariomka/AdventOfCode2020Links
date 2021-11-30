@@ -12,6 +12,10 @@
 
 - [eduherminio/AoC2021](https://github.com/eduherminio/AoC2021)
 
+### Rust
+
+- [Natalia Vidal](https://github.com/erikiva/advent-of-code/tree/main/2021-rust)
+
 ## Misc
 
 - [Make AoC more readable](https://gist.github.com/belen-albeza/9487d12c65e086b7c6f139c6f5d95735)
