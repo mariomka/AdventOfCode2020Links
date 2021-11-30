@@ -11,6 +11,7 @@
 ### C\#
 
 - [eduherminio/AoC2021](https://github.com/eduherminio/AoC2021)
+- [sentach/Iñaki](https://github.com/sentach/AdventOfCode2021)
 
 ### Rust
 
