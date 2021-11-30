@@ -1,61 +1,12 @@
-# Advent Of Code 2020 Links
+# Advent Of Code 2021 Links
 
 ## **Streams**
 
-- https://www.twitch.tv/rubnvp
-- https://www.twitch.tv/ladybenko
-
 ## **Repos**
-
-### C
-
-- [markski1/advent-2020](https://github.com/markski1/advent-2020)
 
 ### C\#
 
-- [eduherminio/AoC2020](https://github.com/eduherminio/AoC2020)
-- [sentach/AdventOfCode](https://github.com/sentach/AdventOfCode)
-
-### JavaScript
-
-- [AlenaNik/aoc2020](https://github.com/AlenaNik/aoc2020)
-- [alsersan/advent-of-code-2020](https://github.com/alsersan/advent-of-code-2020)
-- [ArianeJDB/advent-of-code-2020](https://github.com/ArianeJDB/advent-of-code-2020)
-- [baumannzone/advent-of-code](https://github.com/baumannzone/advent-of-code)
-- [danysainero/adventOfCode2020](https://github.com/danysainero/adventOfCode2020)
-- [Dawntraoz/advent-of-code-2020](https://github.com/Dawntraoz/advent-of-code-2020) (Vue)
-- [Gorzas/advent-of-code-2020](https://github.com/Gorzas/advent-of-code-2020)
-- [jabadia/adventOfCode2020](https://github.com/jabadia/adventOfCode2020)
-- [joaquinmarti/advent-2020](https://github.com/joaquinmarti/advent-2020)
-- [juananmuxed/adventofcode-2020](https://github.com/juananmuxed/adventofcode-2020)
-- [nelodev/aoc-2020](https://github.com/nelodev/aoc-2020)
-- [robertosanval/aoc2020](https://github.com/robertosanval/aoc2020)
-- [rubnvp/advent-of-code-2020](https://github.com/rubnvp/advent-of-code-2020)
-- [totegsito/advent-of-code-2020](https://github.com/totegsito/advent-of-code-2020)
-- [yeta1990/adviento](https://github.com/yeta1990/adviento)
-
-### Kotlin
-- [erikiva/advent-of-code/2020](https://github.com/erikiva/advent-of-code/tree/master/2020)
-
-### PHP
-
-- [guillermoig/AoC2020](https://github.com/guillermoig/AoC2020)
-- [migueabellan/advent-of-code-2020](https://github.com/migueabellan/advent-of-code-2020)
-
-### Python
-
-- [jabadia/adventOfCode2020](https://github.com/jabadia/adventOfCode2020)
-- [jobedom/aoc-2020](https://github.com/jobedom/aoc-2020)
-- [JoseTomasTocino/AdventOfCode2020](https://github.com/JoseTomasTocino/AdventOfCode2020)
-
-### Rust
-
-- [belen-albeza/aoc-2020](https://github.com/belen-albeza/aoc-2020)
-- [mariomka/AdventOfCode2020](https://github.com/mariomka/AdventOfCode2020)
-
-### TypeScript
-
-- [SantiMA10/AdventOfCode-2020](https://github.com/SantiMA10/AdventOfCode-2020)
+- [eduherminio/AoC2021](https://github.com/eduherminio/AoC2021)
 
 ## Misc
 
@@ -64,3 +15,7 @@
 - [Awesome Advent of Code](https://github.com/Bogdanp/awesome-advent-of-code)
 - [Advent of Code Charts](https://chrome.google.com/webstore/detail/advent-of-code-charts/ipbomkmbokofodhhjpipflmdplipblbe)
 - [Advent of Code Ranking](https://chrome.google.com/webstore/detail/advent-of-code-ranking/jbnlafikncgjjhdkmfhokcplgahebmjl/related)
+
+## Archived
+
+- [Advent Of Code 2020](./2020.md)
