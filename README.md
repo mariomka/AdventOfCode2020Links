@@ -16,6 +16,7 @@
 ### Rust
 
 - [Natalia Vidal](https://github.com/erikiva/advent-of-code/tree/main/2021-rust)
+- [Mario Juárez](https://github.com/mariomka/AdventOfCode2021)
 
 ## Misc
 
