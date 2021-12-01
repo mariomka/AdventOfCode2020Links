@@ -4,14 +4,14 @@
 
 ## **Repos**
 
-### Python
-
-- [Javier Abadia](https://github.com/jabadia/advent-of-code-2021)
-
 ### C\#
 
 - [eduherminio/AoC2021](https://github.com/eduherminio/AoC2021)
 - [sentach/Iñaki](https://github.com/sentach/AdventOfCode2021)
+
+### Python
+
+- [Javier Abadia](https://github.com/jabadia/advent-of-code-2021)
 
 ### Rust
 
