@@ -9,6 +9,10 @@
 - [eduherminio/AoC2021](https://github.com/eduherminio/AoC2021)
 - [sentach/Iñaki](https://github.com/sentach/AdventOfCode2021)
 
+### C++
+
+- [Dani Esquilas](https://github.com/desquilas/aoc2021)
+
 ### Go
 
 - [Joaquín Fernández Campo](https://github.com/xocasdashdash/advent-of-code/tree/main/2021)
