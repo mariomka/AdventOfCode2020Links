@@ -13,6 +13,10 @@
 
 - [Dani Esquilas](https://github.com/desquilas/aoc2021)
 
+### C
+
+- [Alberto García (yeta1990/elbertchi)](https://github.com/yeta1990/advent-of-code-2021)
+
 ### Go
 
 - [Joaquín Fernández Campo](https://github.com/xocasdashdash/advent-of-code/tree/main/2021)
